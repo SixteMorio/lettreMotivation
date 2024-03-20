@@ -11,6 +11,16 @@ npm run dev
 npm run build
 ```
 
+# Les touches
+déplacer vous avec le T-rex : z -> pour avancer
+                              q -> pour aller à gauche
+                              s -> pour reculer
+                              d -> aller à droite
+                              e -> pour fouiller les coffres
+                              
+# Le but
+Trouver les 4 parchemins !
+
 # Probleme
 
 - le T-Rex peut sortir de l'écran et du floor.
