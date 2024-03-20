@@ -140,12 +140,12 @@ addTreeWithChest(-20, -3, `<p>Madame/Monsieur,</p>
      <p class="student-paragraph">Etudiant en Bachelor Développement Web à l'Ecole Supérieur du Digital (ESD), je souhaite candidater à votre offre de stage. Le monde du numérique m'a tout de suite plus c'est pourquoi j'ai passé mon bac avec les spécialités: Mathématiques et Numériques et Science de l'Informatique.</p>
      <br>
      <p>1/4</p>`, 1);
-addTreeWithChest(70, -8, `<p class="student-paragraph">Passionné par les escapes games, la gamification, les nouvelles technologies, le numérique et leurs développements, cela m'a paru inné de postuler chez vous afin d'effectuer mon stage de deuxième année.Ce que je trouve intéressant serait de faire ce stage j'ai vous ainsi si tous se passe bien faire l'année prochaine mon alterance chez vous.Vous pourrez durant mon stage m'apprendre les ficelles du métiers et j'apprendrais ce que vous voudrez pour pouvoir répondre au  mieux à vos attentes pour que durant l'alternance vous ayez un dévellopeur qui répondera clairement à vos attentes et qui ne vous décevra pas.</p>
+addTreeWithChest(70, -8, `<p class="student-paragraph">Passionné par les escapes games, la gamification, les nouvelles technologies, le numérique et leurs développements, cela m'a paru inné de postuler chez vous afin d'effectuer mon stage de deuxième année.Ce que je trouve intéressant serait de faire ce stage chez vous ainsi si tous se passe bien faire l'année prochaine mon alterance chez vous.Ainsi vous pourrez durant mon stage m'apprendre les ficelles du métier et j'apprendrai ce que vous voudrez pour pouvoir répondre au  mieux à vos attentes pour que durant l'alternance vous ayez un dévellopeur qui répondera clairement à vos attentes et qui ne vous décevra pas.</p>
 <br>
 <p>2/4</p>`, 2);
 addTreeWithChest(-30, 20, `<p class="student-paragraph">Ce qui me plait dans votre entreprise, c'est votre qualité de travail, vos valeurs et l'ambiance de travail que vous dégagez par votre site et vos vidéos. 
-      <p>J'ai pu réaliser plusieurs sites web et jeux vidéos lors de mon cursus, que je vous laisserais découvrir via votre box jeux vidéos ou bien sur mon git hub où vous pourrez voir aussi quelques projets en html et php.</p>
-      <p>Je sais que je manque d'expérience professionnelle ou en studio et que mon bachelor ne valent pas un master. Mais mon énergie et mon dynamisme peuvent les compenser.Ainsi que mon envie de découvrir où d'approndir mon savoir sur d'autres langages.</p>
+      <p>J'ai pu réaliser plusieurs sites web et jeux vidéos lors de mon cursus, que je vous laisserais découvrir via votre box jeux vidéos ou bien sur mon git hub où vous pourrez voir aussi quelques projets en html, js et php.</p>
+      <p>Je sais que je manque d'expérience professionnelle ou en studio et que mon bachelor ne vaaux pas un master. Mais mon énergie et mon dynamisme peuvent les compenser.Ainsi que mon envie de découvrir et d'approndir mon savoir sur d'autres langages.</p>
       <br>
       <p>3/4</p>`, 3);
 addTreeWithChest(10, 25, `<p class="student-paragraph">Je serai ravi de vous rencontrer afin de vous présenter les projets que j'ai pu développer.</p> 
@@ -275,3 +275,4 @@ window.addEventListener("resize", () => {
   renderer.setSize(wWidth, wHeight);
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 });
+
